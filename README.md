@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @AaditiDethe
+- 👋 Hi, I’m @AaditiDethe369
 - 👀 I’m interested in technology
 - 🌱 I’m currently learning Data Science
 - 💞️ I’m looking to collaborate on ...
