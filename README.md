@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Aaditi Ravindra Dethe</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate Data Science Student</h3>
 
 <img align="right" alt="coding master" width="400" src="https://medium.com/@sevdasanver/python-examples-2-d703a0a1d6bc">
 
