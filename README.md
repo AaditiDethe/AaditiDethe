@@ -35,6 +35,8 @@
 &nbsp;
 <hr>
 <h3 align="left">📊 GitHub Stats:</h3>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=aaditidethe&show_icons=true&locale=en&layout=compact" alt="aaditidethe" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=aaditidethe&show_icons=true&locale=en&layout=compact" alt="aaditidethe" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aaditidethe&show_icons=true&locale=en" alt="aaditidethe" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aaditidethe&" alt="aaditidethe" /></p>
