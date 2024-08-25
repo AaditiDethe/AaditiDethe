@@ -1,8 +1,7 @@
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=aaditidethe&label=Profile%20views&color=0e75b6&style=flat" alt="aaditidethe" /> </p>
+
 <h1 align="center">Hi 👋, I'm Aaditi Ravindra Dethe</h1>
 <h3 align="center">An enthusiastic learner dedicated to mastering Data Science.💡</h3>
-
-&nbsp;
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=aaditidethe&label=Profile%20views&color=0e75b6&style=flat" alt="aaditidethe" /> </p>
 <hr>
 <img align="right" alt="coding master" width="400" height="400" src="https://cdn.dribbble.com/users/1364029/screenshots/16093268/media/68e82a7fb4904614a9066d6b540c14b2.gif">
 &nbsp;
